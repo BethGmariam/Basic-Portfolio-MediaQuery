@@ -50,7 +50,8 @@ header {
 
 nav {
     float: right;
-   ß
+    margin-top:25px;
+  
   }
 
 nav a {
@@ -233,8 +234,8 @@ input[type=Submit]:hover {
 .wrapper {
    
     width: 1280px;
-    background-color: black;
-    margin: 25px auto;
+    background-color: none;
+    margin: 0 auto;
   }
 
 
@@ -260,9 +261,9 @@ body{
         background:#ff0000;
     }
 
-/* header{
+header{
     position:static;
-} */
+}
     
 }
 
